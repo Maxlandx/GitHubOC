@@ -2,10 +2,20 @@ Détails sur le personnage principal
 
 Type : Panda
 Nom : Max
-Fonction : Professeur
-Lieu : Un laboratoire 
-Armes : 
+Fonction : Docteur
+Lieu : Un laboratoire avec domaine externe et souterrain 
+Outils : 
 	- fouet
-	- pistolet
+	- vision nocturne
+	- filet
+	- autres...
 
-Compagnon(s) : 0
+Compagnon(s) : à voir
+
+--------------------------------------
+
+Détails sur le gameplay
+
+Type de jeu : plateforme ou isométrique
+Public : tous
+Principe : explorer des zones pour trouver de quoi créer un remède
