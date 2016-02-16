@@ -1,0 +1,11 @@
+Détails sur le personnage principal
+
+Type : Panda
+Nom : Max
+Fonction : Professeur
+Lieu : Un laboratoire 
+Armes : 
+	- fouet
+	- pistolet
+
+Compagnon(s) : 0
