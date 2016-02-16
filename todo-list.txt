@@ -1,0 +1,7 @@
+Travail à faire
+
+- Décider du type de jeu à créer (plateforme ou isométrique)
+- Décider du design (voir la graphiste)
+- Inventer des épreuves et/ou s'inspirer d'autres jeux
+- Choisir le langage et le support (android de préférence ou navigateur)
+- Choisir des sons et musiques (voir la guitariste)
