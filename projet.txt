@@ -1,0 +1,5 @@
+Projet "premier jeu"
+
+ceci est un projet concernant un jeu parlant d'un animal (à déterminer) qui,
+après une erreur lors d'une expérience, se voit dans l'obligation de parcourir (une zone)
+dans le but de réparer les dommages qu'il a causé.
